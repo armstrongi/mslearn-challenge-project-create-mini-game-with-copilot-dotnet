@@ -1,1 +1,2 @@
-// you'll enter code and comments here
+// write 'hello world' to the console
+Console.WriteLine("hello world");
