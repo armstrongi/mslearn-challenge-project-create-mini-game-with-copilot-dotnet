@@ -4,7 +4,6 @@ _site/
 .optemp/
 _themes*/
 _repo.*/
-bin/Debug/net9.0/RockPaperScissors.dll
-bin/Debug/net9.0/RockPaperScissors.pdb
+RockPaperScissors/bin/Debug/net9.0/*
 
 .openpublishing.buildcore.ps1
