@@ -4,6 +4,6 @@ _site/
 .optemp/
 _themes*/
 _repo.*/
-bin*/
+bin/debug/net9.0/
 
 .openpublishing.buildcore.ps1
