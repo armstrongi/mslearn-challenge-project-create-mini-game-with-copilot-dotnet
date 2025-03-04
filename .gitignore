@@ -1,9 +1,9 @@
 log/
 obj/
+bin/
 _site/
 .optemp/
 _themes*/
 _repo.*/
-RockPaperScissors/bin/Debug/net9.0/*
 
 .openpublishing.buildcore.ps1
